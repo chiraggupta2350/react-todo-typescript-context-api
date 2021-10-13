@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-todo-typescript-context-api/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/react-todo-typescript-context-api/static/js/main.e335f13c.chunk.js",
+    "main.js.map": "/react-todo-typescript-context-api/static/js/main.e335f13c.chunk.js.map",
+    "runtime-main.js": "/react-todo-typescript-context-api/static/js/runtime-main.004727e1.js",
+    "runtime-main.js.map": "/react-todo-typescript-context-api/static/js/runtime-main.004727e1.js.map",
+    "static/js/2.9b508cab.chunk.js": "/react-todo-typescript-context-api/static/js/2.9b508cab.chunk.js",
+    "static/js/2.9b508cab.chunk.js.map": "/react-todo-typescript-context-api/static/js/2.9b508cab.chunk.js.map",
+    "static/js/3.88eae9f0.chunk.js": "/react-todo-typescript-context-api/static/js/3.88eae9f0.chunk.js",
+    "static/js/3.88eae9f0.chunk.js.map": "/react-todo-typescript-context-api/static/js/3.88eae9f0.chunk.js.map",
+    "index.html": "/react-todo-typescript-context-api/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/react-todo-typescript-context-api/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.9b508cab.chunk.js.LICENSE.txt": "/react-todo-typescript-context-api/static/js/2.9b508cab.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.004727e1.js",
+    "static/js/2.9b508cab.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.e335f13c.chunk.js"
+  ]
+}
